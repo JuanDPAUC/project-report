@@ -10,21 +10,21 @@
 
 **Aplicaciones Web**
 
-NRC
+NRC:
 
 **8168**
 
 **Informe del Trabajo Final**
 
-Docente
+Docente:
 
 **Sánchez Ponce, Alex Humberto**
 
-Empresa
+Start Up:
 
 **Chapa Technologies**
 
-Proyecto
+Proyecto:
 
 **BiciGo**
 
