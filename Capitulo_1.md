@@ -44,7 +44,11 @@ Segun el grupo Banco Mundial, los costos relacionados al trafico en Lima equival
 #### 1.2.2.2. Lean UX Assumptions
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+Creemos que una plataforma que permita desbloquear bicicletas mediante codigo QR ayudará a que los usuarios inicien sus viajes de forma rapida. Sabremos que hemos tenido exito cuando mas del 80% de usuarios pueda iniciar su viaje en menos de 30 segundos.
 
+Creemos que restringir la devolucion de bicicletas a BikePoints autorizados ayudara a reducir la perdida de bicicletas. Sabremos que hemos tenido exito cuando la cantidad de bicicletas reportadas como perdidas sea menor que el 5% del total de bicicletas.
+
+Creemos que ofrecer una suscripcion mensual con viajes de hasta 30 minutos ayudara a que mas usuarios elijan este plan sobre el pago por uso. Sabremos que hemos tenido exito cuando mas del 75% de usuarios frecuentes se suscriba al plan mensual.
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos Objetivo
