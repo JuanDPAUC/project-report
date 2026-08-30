@@ -23,7 +23,20 @@ Visión: Convertirnos en la plataforma líder de movilidad sostenible e intermod
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
-
+#### What?
+En Lima Metropolitana existen pocas alternativas para movilizarse en rutas cortas sin atraer problemas, siendo que los ciudadanos tienden a usar taxis o transporte público. A largo plazo, esto genera congestion vehicular y algunos de estos vehiculos llegan a contaminar el medio ambiente.
+#### Why?
+Según un informe hecho por Lima Como Vamos (2026) ha habido un incremento en la población insatisfecha con el servicio de mobilidad que recibe, siendo que respecto al 2024 la cifra aumento de 11.5% a 27.7% en servicios de taxi y 18.7% a 37.6% en el Metro de Lima.
+#### Where?
+El problema ocurre en Lima Metropolitana, sobre todo en distritos con altas cantidades de transito y actividad urbana como Santiago de Surco, Miraflores y San Isidro.
+#### When?
+Esta problematica sucede diariamente, especialmente en horas de mayor transito.
+#### Who?
+Los afectados por dicho problema son los trabajadores, estudiantes y ciudadanos en general que necesitan realizar desplazamientos cortos de manera seguida en la ciudad de Lima.
+#### How?
+La problematica se evidencia cuando los ciudadanos utilizan un metodo de transporte convencional para trayectos cortos, metodo el cual no es sostenible debido al incremento en el transito o la emisión de gases.
+#### How much?
+Segun el grupo Banco Mundial, los costos relacionados al trafico en Lima equivalen al 1,8% del Producto Bruto Interno (2024). Esto evidencia que el impacto de esta problematica es significativo.
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
