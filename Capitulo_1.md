@@ -50,6 +50,7 @@ Creemos que restringir la devolucion de bicicletas a BikePoints autorizados ayud
 
 Creemos que ofrecer una suscripcion mensual con viajes de hasta 30 minutos ayudara a que mas usuarios elijan este plan sobre el pago por uso. Sabremos que hemos tenido exito cuando mas del 75% de usuarios frecuentes se suscriba al plan mensual.
 #### 1.2.2.4. Lean UX Canvas
+![Lean UX Canvas BiciGo](./Resources/Chapter1/LeanUXCanvas.png)
 
 ## 1.3. Segmentos Objetivo
 ### Segmento 1: Ciudadanos urbanos que realicen trayectos cortos
