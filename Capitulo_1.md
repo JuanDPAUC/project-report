@@ -92,6 +92,17 @@ A continuación se presentan los assumptions definidos para el proyecto, organiz
 - Una app móvil con información de estaciones, disponibilidad y recorrido permitirá mejorar la comprensión del servicio y la experiencia de usuario.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+A partir de los assumptions definidos, se establecen las hipótesis de valor del producto. Cada una de ellas refleja una relación entre la propuesta de valor, el segmento objetivo y la funcionalidad clave del sistema.
+
+- Creemos que lograremos aumentar la adopción del servicio si los usuarios urbanos pueden desbloquear bicicletas mediante código QR de forma rápida y sencilla, porque esto les permitirá iniciar sus viajes con menor esfuerzo y menos tiempo de espera. Sabremos que hemos tenido éxito cuando más del 80% de los usuarios pueda iniciar su recorrido en menos de 30 segundos.
+
+- Creemos que lograremos disminuir la pérdida y el robo de bicicletas si los usuarios solo pueden devolverlas en BikePoints autorizados, porque esto permitirá un control más eficiente de la flota y una operación más segura. Sabremos que hemos tenido éxito cuando la cantidad de bicicletas reportadas como perdidas o no devueltas sea menor al 5% del total de bicicletas.
+
+- Creemos que fomentaremos la fidelidad del servicio si ofrecemos una suscripción mensual con viajes de hasta 30 minutos, porque muchos usuarios de uso frecuente preferirán un plan claro y económico frente al pago por uso. Sabremos que hemos tenido éxito cuando más del 75% de los usuarios recurrentes se suscriba al plan mensual.
+
+- Creemos que lograremos aumentar la frecuencia de uso del servicio si ubicamos estaciones estratégicamente en zonas con mayor flujo cotidiano, porque esto reducirá la fricción de acceso y mejorará la experiencia de los usuarios en sus desplazamientos diarios. Sabremos que hemos tenido éxito cuando la demanda de viajes en horas pico aumente de forma sostenida en los distritos con mayor cobertura.
+
+- Creemos que mejoraremos la experiencia del usuario si incorporamos una aplicación móvil con información en tiempo real sobre disponibilidad de bicicletas y estaciones, porque los usuarios podrán planificar mejor sus viajes y reducir la incertidumbre al momento de desplazarse. Sabremos que hemos tenido éxito cuando más del 70% de los usuarios utilicen la aplicación al menos una vez por viaje o al menos una vez por semana.
 
 
 #### 1.2.2.4. Lean UX Canvas
