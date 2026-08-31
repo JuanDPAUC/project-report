@@ -41,14 +41,23 @@ Segun el grupo Banco Mundial, los costos relacionados al trafico en Lima equival
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+El estado actual de la movilidad urbana en Lima Metropolitana se caracteriza por un uso intensivo del transporte privado y del servicio público para recorridos cortos, especialmente en distritos con alta densidad poblacional y congestionamiento, como San Isidro, Miraflores y Santiago de Surco. La mayoría de los usuarios realiza desplazamientos breves entre su hogar, trabajo, universidad o centros comerciales, pero enfrenta tiempos de espera prolongados, dificultades para encontrar opciones eficientes y altos niveles de frustración por la congestión vial y la falta de alternativas sostenibles.
+
+Lo que los productos y servicios actuales no logran resolver de manera efectiva es la combinación entre rapidez, accesibilidad, seguridad y sostenibilidad en recorridos cortos dentro de la ciudad. En muchos casos, los usuarios deben depender de taxis, transporte público o movilidad privada, lo que incrementa el tráfico, aumenta los costos del desplazamiento y no responde adecuadamente a la necesidad de una solución ecológica y práctica.
+
+Nuestra propuesta, BiciGo, busca resolver esta brecha a través de una plataforma de micro-movilidad inteligente que conecta a los usuarios con bicicletas disponibles en estaciones estratégicas y con una experiencia de uso digital, rápida y conveniente. La solución integrará una red de bicicletas, puntos de acceso (BikePoints), un sistema de desbloqueo por código QR y un modelo de acceso adaptable a distintos tipos de usuarios.
+
+Nuestro enfoque inicial estará dirigido a trabajadores, estudiantes y ciudadanos urbanos que requieren traslados cortos, frecuentes y de alta repetición dentro de Lima Metropolitana, así como a instituciones interesadas en promover movilidad sostenible. Esta audiencia es la más sensible a los problemas de congestión, tiempo de viaje y costos de traslado.
+
+Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la adopción de la solución, una reducción en los tiempos de inicio de viaje y una mejora en la retención de usuarios. En términos medibles, esto se reflejará en un mayor número de recorridos diarios por usuario, un volumen de uso sostenido en horas pico y una reducción en la pérdida o uso ineficiente de bicicletas.
+
+
 #### 1.2.2.2. Lean UX Assumptions
 
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
-Creemos que una plataforma que permita desbloquear bicicletas mediante codigo QR ayudará a que los usuarios inicien sus viajes de forma rapida. Sabremos que hemos tenido exito cuando mas del 80% de usuarios pueda iniciar su viaje en menos de 30 segundos.
 
-Creemos que restringir la devolucion de bicicletas a BikePoints autorizados ayudara a reducir la perdida de bicicletas. Sabremos que hemos tenido exito cuando la cantidad de bicicletas reportadas como perdidas sea menor que el 5% del total de bicicletas.
 
-Creemos que ofrecer una suscripcion mensual con viajes de hasta 30 minutos ayudara a que mas usuarios elijan este plan sobre el pago por uso. Sabremos que hemos tenido exito cuando mas del 75% de usuarios frecuentes se suscriba al plan mensual.
 #### 1.2.2.4. Lean UX Canvas
 ![Lean UX Canvas BiciGo](./Resources/Chapter1/LeanUXCanvas.png)
 
