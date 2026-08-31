@@ -51,9 +51,45 @@ Nuestro enfoque inicial estará dirigido a trabajadores, estudiantes y ciudadano
 
 Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la adopción de la solución, una reducción en los tiempos de inicio de viaje y una mejora en la retención de usuarios. En términos medibles, esto se reflejará en un mayor número de recorridos diarios por usuario, un volumen de uso sostenido en horas pico y una reducción en la pérdida o uso ineficiente de bicicletas.
 
-
 #### 1.2.2.2. Lean UX Assumptions
 
+
+A continuación se presentan los assumptions definidos para el proyecto, organizados según los cinco tipos recomendados por Lean UX:
+
+##### Business Assumptions
+- Chapa puede posicionarse como una startup competitiva en el mercado de movilidad urbana sostenible, aprovechando la demanda creciente por soluciones de transporte alternativas en Lima.
+- La implementación de bicicletas como servicio tendrá viabilidad económica si se logra una alta frecuencia de uso y una operación eficiente en zonas de alta demanda.
+- La adopción del servicio dependerá de la capacidad de la empresa para establecer alianzas estratégicas con instituciones, municipios y usuarios frecuentes.
+- Un modelo de negocio basado en suscripción mensual y pago por uso puede generar ingresos sostenibles y mejorar la retención de clientes.
+- La operación de BiciGo puede escalarse en distritos con alta densidad poblacional, siempre que se mida correctamente la demanda y la logística de estaciones y bicicletas.
+
+##### Business Outcome Assumptions
+- Si la solución genera valor real para los usuarios, la empresa logrará aumentar la cantidad de viajes registrados por usuario al mes.
+- La reducción en el tiempo de inicio del viaje y la mejora en la experiencia del usuario impulsará la retención y la frecuencia de uso.
+- Un mejor control de la flota y una política de devoluciones más organizada disminuirá la pérdida y el daño de bicicletas.
+- La organización podrá optimizar sus costos operativos si mantiene una proporción equilibrada entre demanda, inventario y mantenimiento.
+- El crecimiento de la base de usuarios permitirá mejorar la rentabilidad del servicio a través de economías de escala.
+
+##### User Assumptions
+- Los usuarios principales son estudiantes, trabajadores y profesionales que realizan recorridos cortos dentro de la ciudad y buscan un transporte rápido y eficiente.
+- El segmento urbano valorará mucho la conveniencia, la rapidez y la reducción del tiempo de desplazamiento durante las horas pico.
+- Los usuarios estarán más dispuestos a utilizar la solución si la plataforma ofrece una experiencia simple, clara y accesible desde dispositivos móviles.
+- Las personas que usan transporte público frecuentemente buscan alternativas más cómodas, menos congestionadas y con mayor control del tiempo de viaje.
+- Las instituciones, universidades y empresas pueden actuar como aliados para ampliar la cobertura del servicio y fomentar la movilidad sostenible.
+
+##### User Outcome and Benefit Assumptions
+- Los usuarios esperan poder iniciar un viaje en segundos y evitar tiempos de espera prolongados.
+- Los usuarios desean reducir la dependencia del transporte privado o del transporte público para recorridos cortos.
+- El servicio debe ofrecer una experiencia de viaje accesible, segura y sostenible para el usuario cotidiano.
+- Los clientes perciben valor cuando el costo del desplazamiento es menor o comparable con otros medios de transporte.
+- Los usuarios valoran la posibilidad de recorrer distancias cortas de forma rápida, sin esfuerzo adicional y con menor impacto ambiental.
+
+##### Feature Assumptions
+- Un sistema de desbloqueo mediante código QR permitirá a los usuarios iniciar sus viajes de manera más rápida y sin fricción.
+- La restricción de devoluciones únicamente a BikePoints autorizados reducirá la pérdida, el robo y el mal uso de las bicicletas.
+- Una suscripción mensual con viajes de hasta 30 minutos incentivará la fidelización y la frecuencia de uso.
+- La ubicación estratégica de estaciones en zonas de mayor demanda facilitará la accesibilidad y el uso cotidiano del servicio.
+- Una app móvil con información de estaciones, disponibilidad y recorrido permitirá mejorar la comprensión del servicio y la experiencia de usuario.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
