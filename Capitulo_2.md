@@ -269,33 +269,33 @@ Este segmento está compuesto por estudiantes, trabajadores y profesionales jóv
 - ¿Se sentiría motivado a usar este servicio si existiera un plan mensual para usuarios frecuentes?
 - ¿Qué tan útil considera que sería un servicio pensado para recorridos de 10 a 30 minutos?
 
-#### Segmento 2: Instituciones que desean promover el uso de la bicicleta
+#### Segmento 2: Ciudadanos y Usuarios Esporádicos (Riders ocasionales)
 
-Este segmento incluye universidades, municipalidades, empresas y otras organizaciones interesadas en fomentar la movilidad sostenible entre sus miembros, estudiantes o trabajadores.
+Este segmento está compuesto por residentes y visitantes de 25 a 45 años que realizan desplazamientos eventuales o de corta distancia dentro de zonas urbanas, comerciales y financieras de Lima Metropolitana. Sus principales necesidades son acceder rápidamente al servicio, pagar únicamente por el uso realizado y desplazarse mediante el desbloqueo de la bicicleta con un código QR, sin comprometerse con una suscripción mensual.
 
 ##### Preguntas principales
 | N° | Pregunta |
 |---|---|
-| 1 | ¿Qué tipo de institución representa y cuál es su rol en la promoción de la movilidad sostenible? |
-| 2 | ¿Qué tipo de población atiende la institución y qué necesidades de movilidad presenta? |
-| 3 | ¿Actualmente se promueve alguna iniciativa relacionada con la bicicleta o con medios de transporte sostenibles? |
-| 4 | ¿Qué limitaciones tienen los empleados o estudiantes para desplazarse en bicicleta dentro de la ciudad? |
-| 5 | ¿Considera que la movilidad sostenible es una prioridad dentro de la institución o comunidad que representa? |
-| 6 | ¿Qué beneficios esperaría obtener una institución si implementa un servicio de bicicletas compartidas para sus usuarios? |
-| 7 | ¿Qué tan viable sería para su institución contar con puntos de acceso o BikePoints dentro de sus instalaciones? |
-| 8 | ¿Qué condiciones deberían cumplirse para que una alianza con una startup de micromovilidad sea atractiva para su organización? |
-| 9 | ¿Qué indicadores permitirían medir el éxito de una iniciativa de movilidad sostenible dentro de la institución? |
-| 10 | ¿Estaría dispuesto a participar en una estrategia de promoción del uso de bicicleta mediante beneficios, incentivos o convenios? |
+| 1 | ¿Cuál es su edad, distrito de residencia, ocupación actual y estado civil? |
+| 2 | ¿En qué ocasiones realiza desplazamientos cortos dentro de la ciudad y qué lugares suele visitar? |
+| 3 | ¿Qué medio de transporte utiliza normalmente para realizar estos desplazamientos y por qué? |
+| 4 | ¿Qué dificultades encuentra cuando necesita movilizarse rápidamente dentro de una zona comercial o financiera? |
+| 5 | ¿Qué factores considera más importantes al elegir un medio de transporte para un viaje ocasional? |
+| 6 | ¿Ha utilizado alguna vez una bicicleta compartida o un servicio de alquiler por tiempo? ¿Cómo fue su experiencia? |
+| 7 | ¿Qué tan dispuesto estaría a utilizar una bicicleta disponible en un BikePoint para realizar un trayecto corto? |
+| 8 | ¿Qué tan sencillo le parecería desbloquear una bicicleta mediante un código QR desde una aplicación móvil? |
+| 9 | ¿Preferiría pagar únicamente por el tiempo utilizado o adquirir una suscripción mensual? ¿Por qué? |
+| 10 | ¿Qué condiciones de seguridad, disponibilidad y ubicación necesitaría para utilizar el servicio? |
 
 ##### Preguntas complementarias
-- ¿Qué tan importante es para la institución reducir la congestión, mejorar la movilidad o mejorar la imagen sostenible de la organización?
-- ¿Qué tan factible sería implementar bicicletas compartidas en espacios universitarios, corporativos o municipales?
-- ¿Qué nivel de apoyo administrativo o financiero podría ofrecer la institución para una iniciativa de este tipo?
-- ¿Qué tipo de usuarios serían los principales beneficiarios de una solución de movilidad sostenible?
-- ¿Qué tan relevante es para la institución la seguridad del usuario, el mantenimiento de la flota y la digitalización del servicio?
-- ¿Qué tipo de servicios adicionales complementarios podrían ser valorados por la institución?
-- ¿Qué barreras percibe para la adopción de bicicletas como opción de transporte institucional?
-- ¿Qué tan viable es establecer alianzas con empresas o universidades para ampliar los puntos de uso del servicio?
+- ¿Con qué frecuencia utiliza aplicaciones móviles para transporte, mapas o pagos digitales?
+- ¿Qué tan importante es encontrar una bicicleta disponible cerca de su ubicación actual?
+- ¿Cuánto tiempo estaría dispuesto a caminar hasta un BikePoint antes de iniciar un viaje?
+- ¿Qué tan seguro se sentiría utilizando una bicicleta en las zonas que frecuenta?
+- ¿Qué características debería tener la aplicación para que el proceso de pago y desbloqueo sea claro?
+- ¿Qué duración suelen tener los recorridos ocasionales que realiza?
+- ¿Qué precio consideraría razonable para un viaje corto en bicicleta?
+- ¿Qué situaciones harían que dejara de utilizar un servicio de bicicletas compartidas?
 
 
 ### 2.2.2. Registro de entrevistas
